@@ -2,7 +2,7 @@
 
 This project was done as part of my University course. The aim is to simulate the effect of a tuned mass damper (TMD) and see how it improves the stability of a building. There are four main files as part of this project 
 
-* Frequency Response of Model - the simulation of the model without any tuned mass damping
+* Frequency Response of Model - the simulation of the model without any tuned mass damping.
 
 * Model Response with Single TMD - the simulation of how the model changes when adding a singled tuned mass damper. Notice how placing it on certain floors will increase its effectiveness.
 
